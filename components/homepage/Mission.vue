@@ -1,6 +1,6 @@
 <template>
   <section class="container px-4 py-24 mx-auto">
-    <h2 class="text-3xl font-bold text-gray-900 text-center mb-20">3 easy steps to use our tailwind Nuxt.js templates</h2>
+    <h2 class="text-3xl font-bold text-gray-900 text-center mb-20">Our Mission</h2>
     <div class="grid items-center grid-cols-1 mb-24 md:grid-cols-2 gap-y-10 md:gap-y-32 gap-x-10 md:gap-x-24">
       <div>
         <span class="px-5 py-2 bg-gray-300 text-sm font-light rounded-full mb-5 inline-block">Step 1</span>
