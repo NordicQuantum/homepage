@@ -31,7 +31,7 @@
           Why rent serverspace when you can build your own system? With our very own K3s cluster we have enough power to fullfill all our datascience needs and still know to 100% where the data is!
         </p>
         <p class="mb-3 text-sm font-normal text-gray-500">
-          <a href="javascript:;" class="font-medium text-gray-900 hover:text-purple-700">Vincent Krieg & Sven Nivera</a>
+          <a href="javascript:;" class="font-medium text-gray-900 hover:text-purple-700">NordicQuantum</a>
           • July 25, 2022
         </p>
       </div>
